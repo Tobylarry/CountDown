@@ -61,6 +61,7 @@ a {
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    margin-bottom: 1.5px;
 }
 
 .timer2 {
