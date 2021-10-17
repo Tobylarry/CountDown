@@ -11,7 +11,7 @@ var x = setInterval(count, 1000)
 
 function count() {
 
-    const deadline = new Date("september 31, 2021 15:37:25").getTime()
+    const deadline = new Date("January 31, 2022 15:37:25").getTime()
 
     let now = new Date().getTime()
     let countDown = deadline - now;
